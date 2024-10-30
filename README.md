@@ -1,20 +1,16 @@
-# 👋 Hi, I’m @ByteBossNG
+# 👋🏾 Hi, I’m @ByteBossNG
 
-### 👀 About Me
-I'm a tech enthusiast and a fan of well-designed, user-friendly applications. My journey in tech is just beginning, and I'm excited to explore the endless possibilities coding offers.
+### About Me
+I'm a tech enthusiast with a strong interest in well-designed, user-friendly applications. I'm at the beginning of my coding journey and am eager to explore the possibilities within the field.
 
-### 🌱 Currently Learning
-I'm at the start of my coding journey, focusing on building a strong foundation. By 2025, I hope to look back and see how far I've come!
+### Learning Goals
+Currently, I am focused on building foundational coding skills. By 2025, I hope to look back and see significant progress.
 
-### 💞️ Volunteer Work
-Alongside learning to code, I volunteer as a translator for Hausa and Nigerian Pidgin Language, contributing to making information accessible in my community.
+### Volunteer Work
+I also volunteer as a translator for Hausa and Nigerian Pidgin Language, helping make information more accessible in my community.
 
-### 📫 How to Reach Me
-Feel free to connect with me:
-- [LinkedIn](https://linkedin.com/in/abdulnuraini)
-
-### ⚡ Fun Fact
-I'm a translator who loves tech, and while my coding skills are a work in progress, I’m excited for what lies ahead!
+### Contact
+Feel free to connect with me on [LinkedIn](https://linkedin.com/in/abdulnuraini).
 
 <!---
 ByteBossNG/ByteBossNG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
