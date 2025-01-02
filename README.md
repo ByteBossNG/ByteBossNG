@@ -10,7 +10,7 @@ Currently, I am focused on building foundational coding skills. By 2025, I hope 
 I also volunteer as a translator for Hausa and Nigerian Pidgin Language, helping make information more accessible in my community.
 
 ### Contact
-Feel free to connect with me on [LinkedIn](https://linkedin.com/in/abdulnuraini).
+Feel free to connect with me here.
 
 <!---
 ByteBossNG/ByteBossNG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
